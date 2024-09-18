@@ -1,0 +1,48 @@
+.carousel-item img {
+  
+
+    margin-top:0px;
+  }
+
+
+  .contain-update{
+    height: 60vh;
+    
+    border: 1px solid rgb(55, 0, 255);
+    border-radius: 10px;
+  }
+  .Latest-update{
+    padding: 10px;
+  }
+  .Latest-update a{
+    text-decoration: none;
+    font-size: 23px;
+  }
+  .marque{
+    padding: 10px;
+    height: 50vh !important;
+
+  }
+  .card-slide{
+    background-color: rgb(84, 84, 236);
+    height: 45vh;
+  }
+  .container-slide{
+    background-color: white;
+    padding: 15px;
+    border-radius: 0px 0px 5px 5px ;
+  }
+  
+  .slick-slide {
+    margin-right: 10px; /* Adds gap between slides */
+  }
+  
+
+
+
+
+
+  /* 58038290850589055555555555555555555555555555555555555555555555555555523589058390458340999999999999999999999999999999999999999999999999999999999999999 */
+
+  
+ 

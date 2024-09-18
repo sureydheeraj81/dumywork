@@ -1,0 +1,89 @@
+.navbar {
+     /* margin-bottom: 40px !important; */
+
+    background-color: #1050a2 !important;
+    color:white !important;
+
+ }
+
+ .upper-nav{
+    background-color: white !important;
+    /* margin-bottom: 80px !important; */
+    height:12vh !important;
+    position:fixed;
+ }
+
+
+ .custom-header  {
+        padding: 5px 20px;  
+         color: rgb(250, 242, 242); 
+        /* font-weight: bold;  */
+    font-size: 20px;
+
+
+      
+        margin-left: 5px;
+        background-color: #0056b3 ;
+        border-radius: 20px 20px 20px 20px;   
+}
+
+
+
+
+    
+.dropdown :hover .dropdown-menu{
+    display: block !important;
+    background-color: #163c7e !important; 
+
+}
+.dropdown-menu{
+    background-color: #163c7e;
+    color: white !important;
+}
+.dropdown-item{
+    color: white;
+    padding: 10px;
+    font-size: large;
+}
+.dropdown-item:hover{
+
+    background: #1b68ef;
+    color: white;
+
+
+}
+/* .dropdown-menu:hover{
+} */
+.subheading {
+    margin: 10px 20px; 
+    font-size: 22px;
+}
+
+ .navbar-nav .nav-link {
+    
+    margin-right: 50px;
+    transition: background-color 0.6s, color 0.5s;
+    padding: 8px 30px !important; 
+    border-radius: 4px;
+}
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+    background-color: #1b68ef; 
+    color: white; 
+}
+
+
+/* CSS to handle hover for dropdown */
+.nav-item.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 1px; /* Optional: Removes the small gap between the dropdown and the button */
+}
+
+.nav-item.dropdown:hover .nav-link {
+    aria-expanded: true;
+}
+
+
+
+
+
