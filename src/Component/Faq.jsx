@@ -4,7 +4,7 @@ import React from 'react'
 const Faq = () => {
     return (
         <>
-            <div className="container d-flex align-items-center justify-content-center mt-5 ">
+            <div className="container  clear ">
             <div className="accordion accordion-flush w-100  shadow p-3 mb-5 bg-body-tertiary rounded " id="accordionFlushExample">
                 <h1> <i className="bi bi-body-text"></i> FAQ's (Frequently Asked Questions)</h1>
                 <div className="accordion-item">

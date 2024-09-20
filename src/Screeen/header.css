@@ -1,0 +1,22 @@
+header {
+    background-color: white;
+  }
+  
+  .logo {
+    margin-right: 10px;
+  }
+  
+  .banner {
+    background-color: #0044cc;
+    color: white;
+    padding: 7px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    /* font-size: large; */
+  }
+  
+  p {
+    margin: 0;
+    font-size: medium;
+  }
+  

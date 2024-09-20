@@ -3,7 +3,9 @@
 
     margin-top:0px;
   }
-
+.home-intro{
+  padding-right: 20px !important;
+}
 
   .contain-update{
     height: 60vh;
@@ -18,24 +20,19 @@
     text-decoration: none;
     font-size: 23px;
   }
-  .marque{
-    padding: 10px;
-    height: 50vh !important;
-
-  }
+ 
   .card-slide{
-    background-color: rgb(84, 84, 236);
-    height: 45vh;
+    background-color: #1050a2;
+    height: 60vh;
   }
   .container-slide{
     background-color: white;
-    padding: 15px;
+    padding: 10px;
     border-radius: 0px 0px 5px 5px ;
   }
   
-  .slick-slide {
-    margin-right: 10px; /* Adds gap between slides */
-  }
+
+
   
 
 
@@ -43,6 +40,44 @@
 
 
   /* 58038290850589055555555555555555555555555555555555555555555555555555523589058390458340999999999999999999999999999999999999999999999999999999999999999 */
+
+  .marquee-container {
+    height: 50vh !important;
+    padding: 10px;
+
+    
+    overflow: hidden; /* Hide overflow */
+    position: relative;
+}
+
+.marquee {
+    position: absolute;
+    width: 100%;
+    animation: scroll-up 10s linear infinite; /* Adjust duration as needed */
+}
+
+@keyframes scroll-up {
+    from {
+        transform: translateY(100%); /* Start from bottom */
+    }
+    to {
+        transform: translateY(-100%); /* Scroll to top */
+    }
+}
+
+.marquee:hover {
+    animation-play-state: paused; /* Pause on hover */
+}
+
+.Latest-update {
+    display: flex; /* Align items */
+    align-items: center; /* Center items vertically */
+    padding: 5px; /* Space around each item */
+}
+
+.Latest-update img {
+    margin-right: 10px; /* Space between image and text */
+}
 
   
  

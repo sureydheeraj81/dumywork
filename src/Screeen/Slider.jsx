@@ -7,29 +7,29 @@ const Slider = () => {
    <div className="slider_body">
         <div className="slider1">
           <div className="slide-track">
-            <div className="slide1"><a href="https://dst.gov.in/" target="_blank" ><img src="/assets/images/dst-logo1.png" alt="Department of Science & Technology" /></a></div>
-            <div className="slide1"><a href="https://csc.gov.in/digitalIndia" target="_blank" ><img src="/assets/images/digital.png" alt="DIGITAL INDIA" /></a></div>
-            <div className="slide1"><a href="https://dopt.gov.in/" target="_blank" ><img src="/assets/images/dopt-logo.png" alt="Department of Personnel Training" /></a></div>
-            <div className="slide1"><a href="https://www.india.gov.in/" target="_blank" ><img src="/assets/images/india-gov.png" alt="India Gov" /></a></div>
-            <div className="slide1"><a href="https://www.pgportal.gov.in/" target="_blank" ><img src="/assets/images/pg-logo.png" alt="Public Grievances" /></a></div>
-            <div className="slide1"><a href="https://www.makeinindia.com/" target="_blank" ><img src="/assets/images/mii.png" alt="Make in India" /></a></div>
-            <div className="slide1"><a href="https://www.data.gov.in/" target="_blank" ><img src="/assets/images/data-gov.png" alt="Data-gov" /></a></div>
+            <div className="slide1"><a href="https://dst.gov.in/" ><img src="/assets/images/dst-logo1.png" alt="Department of Science & Technology" /></a></div>
+            <div className="slide1"><a href="https://csc.gov.in/digitalIndia"  ><img src="/assets/images/digital.png" alt="DIGITAL INDIA" /></a></div>
+            <div className="slide1"><a href="https://dopt.gov.in/"  ><img src="/assets/images/dopt-logo.png" alt="Department of Personnel Training" /></a></div>
+            <div className="slide1"><a href="https://www.india.gov.in/"  ><img src="/assets/images/india-gov.png" alt="India Gov" /></a></div>
+            <div className="slide1"><a href="https://www.pgportal.gov.in/"  ><img src="/assets/images/pg-logo.png" alt="Public Grievances" /></a></div>
+            <div className="slide1"><a href="https://www.makeinindia.com/"  ><img src="/assets/images/mii.png" alt="Make in India" /></a></div>
+            <div className="slide1"><a href="https://www.data.gov.in/"  ><img src="/assets/images/data-gov.png" alt="Data-gov" /></a></div>
 
-            <div className="slide1"><a href="https://dst.gov.in/" target="_blank" ><img src="/assets/images/dst-logo1.png" alt="Department of Science & Technology" /></a></div>
-            <div className="slide1"><a href="https://csc.gov.in/digitalIndia" target="_blank" ><img src="/assets/images/digital.png" alt="DIGITAL INDIA" /></a></div>
-            <div className="slide1"><a href="https://dopt.gov.in/" target="_blank" ><img src="/assets/images/dopt-logo.png" alt="Department of Personnel Training" /></a></div>
-            <div className="slide1"><a href="https://www.india.gov.in/" target="_blank" ><img src="/assets/images/india-gov.png" alt="India Gov" /></a></div>
-            <div className="slide1"><a href="https://www.pgportal.gov.in/" target="_blank" ><img src="/assets/images/pg-logo.png" alt="Public Grievances" /></a></div>
-            <div className="slide1"><a href="https://www.makeinindia.com/" target="_blank" ><img src="/assets/images/mii.png" alt="Make in India" /></a></div>
-            <div className="slide1"><a href="https://www.data.gov.in/" target="_blank" ><img src="/assets/images/data-gov.png" alt="Data-gov" /></a></div>
+            <div className="slide1"><a href="https://dst.gov.in/"  ><img src="/assets/images/dst-logo1.png" alt="Department of Science & Technology" /></a></div>
+            <div className="slide1"><a href="https://csc.gov.in/digitalIndia"  ><img src="/assets/images/digital.png" alt="DIGITAL INDIA" /></a></div>
+            <div className="slide1"><a href="https://dopt.gov.in/"  ><img src="/assets/images/dopt-logo.png" alt="Department of Personnel Training" /></a></div>
+            <div className="slide1"><a href="https://www.india.gov.in/"  ><img src="/assets/images/india-gov.png" alt="India Gov" /></a></div>
+            <div className="slide1"><a href="https://www.pgportal.gov.in/"  ><img src="/assets/images/pg-logo.png" alt="Public Grievances" /></a></div>
+            <div className="slide1"><a href="https://www.makeinindia.com/"  ><img src="/assets/images/mii.png" alt="Make in India" /></a></div>
+            <div className="slide1"><a href="https://www.data.gov.in/"  ><img src="/assets/images/data-gov.png" alt="Data-gov" /></a></div>
 
-            <div className="slide1"><a href="https://dst.gov.in/" target="_blank" ><img src="/assets/images/dst-logo1.png" alt="Department of Science & Technology" /></a></div>
-            <div className="slide1"><a href="https://csc.gov.in/digitalIndia" target="_blank" ><img src="/assets/images/digital.png" alt="DIGITAL INDIA" /></a></div>
-            <div className="slide1"><a href="https://dopt.gov.in/" target="_blank" ><img src="/assets/images/dopt-logo.png" alt="Department of Personnel Training" /></a></div>
-            <div className="slide1"><a href="https://www.india.gov.in/" target="_blank" ><img src="/assets/images/india-gov.png" alt="India Gov" /></a></div>
-            <div className="slide1"><a href="https://www.pgportal.gov.in/" target="_blank" ><img src="/assets/images/pg-logo.png" alt="Public Grievances" /></a></div>
-            <div className="slide1"><a href="https://www.makeinindia.com/" target="_blank" ><img src="/assets/images/mii.png" alt="Make in India" /></a></div>
-            <div className="slide1"><a href="https://www.data.gov.in/" target="_blank" ><img src="/assets/images/data-gov.png" alt="Data-gov" /></a></div>
+            <div className="slide1"><a href="https://dst.gov.in/"  ><img src="/assets/images/dst-logo1.png" alt="Department of Science & Technology" /></a></div>
+            <div className="slide1"><a href="https://csc.gov.in/digitalIndia"  ><img src="/assets/images/digital.png" alt="DIGITAL INDIA" /></a></div>
+            <div className="slide1"><a href="https://dopt.gov.in/"  ><img src="/assets/images/dopt-logo.png" alt="Department of Personnel Training" /></a></div>
+            <div className="slide1"><a href="https://www.india.gov.in/"  ><img src="/assets/images/india-gov.png" alt="India Gov" /></a></div>
+            <div className="slide1"><a href="https://www.pgportal.gov.in/"  ><img src="/assets/images/pg-logo.png" alt="Public Grievances" /></a></div>
+            <div className="slide1"><a href="https://www.makeinindia.com/"  ><img src="/assets/images/mii.png" alt="Make in India" /></a></div>
+            <div className="slide1"><a href="https://www.data.gov.in/"  ><img src="/assets/images/data-gov.png" alt="Data-gov" /></a></div>
           </div>
         </div>
       </div>

@@ -1,6 +1,7 @@
 import React from 'react'
 import "./nav.css"
 import { Link } from 'react-router-dom'
+import Header from './Header'
 
 const Nav = () => {
     return (
@@ -24,6 +25,7 @@ const Nav = () => {
 
             {/* Navigation Bar */}
             {/* <div className="row w-100 mt-2"> */}
+            <Header/>
             <nav className="navbar navbar-expand-lg bg-body-tertiary w-100  ">
                 <div className="container-fluid">
                     <button
@@ -42,7 +44,7 @@ const Nav = () => {
                     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div className="navbar-nav mx-auto">
                             <Link to="/" className="nav-link fs-4 text-white active" aria-current="page">Home</Link>
-                            <Link to="/slider" className="nav-link fs-4 text-white">About SOI</Link>
+                            <Link to="https://www.surveyofindia.gov.in/pages/who-we-are" target='_blank' className="nav-link fs-4 text-white">About SOI</Link>
 
                             <li className="nav-item dropdown">
                                 <a
